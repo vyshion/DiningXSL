@@ -6,8 +6,8 @@
 <title>POD Menu Item Cards</title>
 <style>
 	.mainDiv {
-		width:351px;
-		max-width:351px;
+		width:378px;
+		max-width:378px;
 		height: 180px;
 		max-height:180px;
 		display: inline-block;
